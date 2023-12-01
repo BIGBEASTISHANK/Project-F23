@@ -2,4 +2,4 @@
 - It is an FPS shooter game
 - Development going on unreal engine 5
 
-  \note: You are welcomed to submit PR for this project.
+  **Note:** You are welcomed to submit PR for this project.
